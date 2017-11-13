@@ -1,0 +1,11 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\bin\Debug\netcoreapp2.0\WebAppLab7.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\bin\Debug\netcoreapp2.0\WebAppLab7.runtimeconfig.json
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\bin\Debug\netcoreapp2.0\WebAppLab7.runtimeconfig.dev.json
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\bin\Debug\netcoreapp2.0\WebAppLab7.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\bin\Debug\netcoreapp2.0\WebAppLab7.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\obj\Debug\netcoreapp2.0\WebAppLab7.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\obj\Debug\netcoreapp2.0\WebAppLab7.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\obj\Debug\netcoreapp2.0\WebAppLab7.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\obj\Debug\netcoreapp2.0\WebAppLab7.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\obj\Debug\netcoreapp2.0\WebAppLab7.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\Lab7\WebAppLab7\obj\Debug\netcoreapp2.0\WebAppLab7.pdb
